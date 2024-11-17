@@ -1,0 +1,5 @@
+screenspot/images/*
+.ipynb_checkpoints
+legacy/.ipynb_checkpoints
+__pycache__
+.env
