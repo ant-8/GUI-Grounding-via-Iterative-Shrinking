@@ -5,6 +5,7 @@ Create a `screenspot/images` directory, then put all the images from the benchma
 ## Dependencies
 
 - pillow
+- torch
 - numpy
 - transformers
 - qwen_vl_utils
