@@ -2,7 +2,7 @@
 
 The code for the paper: [Improved GUI Grounding via Iterative Narrowing](https://arxiv.org/abs/2411.13591)
 
-## ScreenSpot Setup:
+## ScreenSpot Setup
 
 Create a `screenspot/images` directory, then put all the images from the benchmark in it.
 
