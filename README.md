@@ -29,6 +29,7 @@ benchmark.
 - numpy
 - transformers
 - qwen_vl_utils
+- flash-attn
 
 ### Citation
 ```
