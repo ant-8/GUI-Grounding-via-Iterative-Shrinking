@@ -11,6 +11,7 @@ Graphical User Interface (GUI) grounding plays a crucial role in enhancing the c
 |---------------------|----------|-------|
 | InternVL-2-4B       | 4.32     | **6.53**  |
 | Qwen2-VL-7B         | 42.89    | **69.1**  |
+| ShowUI-2B           | 75.1    | **79.56**  |
 | OS-Atlas-Base-7B    | 82.47    | **83.33** |
 
 Table 1: Overall average accuracy (%) comparing baseline against our method (IN) on the ScreenSpot
